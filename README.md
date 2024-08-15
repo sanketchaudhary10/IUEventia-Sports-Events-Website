@@ -9,4 +9,4 @@ IUEventia is a full-stack web application designed to manage and post sports eve
 - Authentication: Firebase Authentication
 - Deployment: Vercel
 
-# Deployed Website: https://iueventia.vercel.app/ 
+Deployed Website: https://iueventia.vercel.app/ 
